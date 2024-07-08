@@ -1,0 +1,8 @@
+<svg width="auto" height="42" xmlns="http://www.w3.org/2000/svg">
+  <polyline
+    fill="none"
+    stroke="#59a560"
+    stroke-width="2"
+    points="0,40 10,30 20,20 30,10 40,20 50,20 60,30 70,40 80,20 90,30 100,10"
+  />
+</svg>
